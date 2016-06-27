@@ -129,6 +129,9 @@
   "directories": {
     "test": "test"
   },
+  "engines": {
+    "npm": "^3.7.0"
+  },
   "description": "jpcc space",
   "bugs": {
     "url": "https://github.com/pinkgorilla/jpcc-space/issues"
